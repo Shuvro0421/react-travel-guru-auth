@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "place_name": "Cox's Bazar",
+        "image_url": "https://i.ibb.co/pwsqdsY/sundorbon.png",
+        "description": "Cox's Bazar is a famous tourist destination known for its long sandy beach and vibrant atmosphere. It is located in southeastern Bangladesh."
+    },
+    {
+        "id": 2,
+        "place_name": "Sreemangal",
+        "image_url": "https://i.ibb.co/Jz7Jt8Y/Sreemongol.png",
+        "description": "Sreemangal is known as the 'Tea Capital of Bangladesh' and is famous for its lush tea gardens, serene landscapes, and the Lawachara National Park."
+    },
+    {
+        "id": 3,
+        "place_name": "Sajek",
+        "image_url": "https://i.ibb.co/gRvkDhg/Sajek.png",
+        "description": "Sajek Valley is a picturesque hill station located in the Chittagong Hill Tracts of Bangladesh, offering breathtaking views, trekking opportunities, and a tranquil getaway."
+    }
+]
